@@ -52,5 +52,10 @@ df3 = df3[(np.abs(stats.zscore(df3['Assistant Professor Comp'])) < 3)]
 df3 = df3[(np.abs(stats.zscore(df3['All Rank Comp'])) < 3)]
 print(len(df3.index))
 
+'''
 corr_data = df3.corr(method='pearson')
 corr_data.to_csv("Correlation Coefficients.csv", encoding='utf-8', index=True)
+
+Comment on how some independant variables have a very high correlation coefficient (>.9) but they won't be in the same linear
+regression model so we don't need to remove features.
+'''

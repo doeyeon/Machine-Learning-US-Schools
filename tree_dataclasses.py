@@ -47,18 +47,6 @@ class InternalNode():
         self.gain = information
         self.right = true_branch
         self.left = false_branch
-
-'''
-DecisionTree
-Dataclass representation of a decision tree.
-Attributes:
-Methods:
-    __init__(min_split, max_depth): Constructor
-'''
-class DecisionTree():
-    def __init__(self):
-        self.root = None
-
 '''
 Split
 Dataclass representation of a given split

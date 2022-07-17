@@ -1,0 +1,187 @@
+D:0 Out-State Tuition >= 8644.0 Gain: 0.06167821698331974
+  left:D:1 Number of Applications Received >= 5548.0 Gain: 0.026716521440515673
+    left:D:2 Number of Parttime Undergrad >= 1256.0 Gain: 0.040723593964334726
+      left:D:3 Estimated Personal Spending >= 2500.0 Gain: 0.031648351648351614
+        left:D:4 In-State Tuition >= 1044.0 Gain: 0.02311498972165895
+          left:D:5 Estimated Book Costs >= 350.0 Gain: 0.21875
+            left:D:6 True
+            right:D:6 False
+          right:D:5 Number of Fulltime Undergrad >= 1673.0 Gain: 0.023262430087638064
+            left:D:6 In-State Tuition >= 5150.0 Gain: 0.05743100578781325
+              left:D:7 Estimated Book Costs >= 675.0 Gain: 0.12244897959183687
+                left:D:8 In-State Tuition >= 3020.0 Gain: 0.0738461538461537
+                  left:D:9 Room and Board Costs >= 3264.0 Gain: 0.21568047337278107
+                    left:D:10 Number of Parttime Undergrad >= 117.0 Gain: 0.21875
+                      left:D:11 True
+                      right:D:11 False
+                    right:D:10 Estimated Book Costs >= 500.0 Gain: 0.31999999999999984
+                      left:D:11 False
+                      right:D:11 True
+                  right:D:9 False
+                right:D:8 True
+              right:D:7 Number of Parttime Undergrad >= 67.0 Gain: 0.06121234448947205
+                left:D:8 True
+                right:D:8 Percent of Faculty with Terminal Degree >= 41.0 Gain: 0.050235478806907485
+                  left:D:9 False
+                  right:D:9 Number of Applicants Accepted >= 1336.0 Gain: 0.06311637080867849
+                    left:D:10 Percent of Faculty with Ph.D >= 59.0 Gain: 0.038647342995169115
+                      left:D:11 Out-State Tuition >= 8550.0 Gain: 0.05939393939393922
+                        left:D:12 Percent of Faculty with Terminal Degree >= 77.0 Gain: 0.07103502558048022
+                          left:D:13 Instructional Expenditure per Student >= 6860.0 Gain: 0.01995464852607709
+                            left:D:14 Instructional Expenditure per Student >= 6850.0 Gain: 0.14222222222222206
+                              left:D:15 Number of Applications Received >= 280.0 Gain: 0.19753086419753085
+                                left:D:16 False
+                                right:D:16 True
+                              right:D:15 False
+                            right:D:14 True
+                          right:D:13 False
+                        right:D:12 Student Faculty Ratio >= 15.4 Gain: 0.4444444444444444
+                          left:D:13 True
+                          right:D:13 False
+                      right:D:11 Estimated Personal Spending >= 1800.0 Gain: 0.15122873345935728
+                        left:D:12 Number of New Students Enrolled >= 148.0 Gain: 0.17777777777777787
+                          left:D:13 False
+                          right:D:13 Instructional Expenditure per Student >= 6259.0 Gain: 0.15999999999999986
+                            left:D:14 Number of Applicants Accepted >= 587.0 Gain: 0.48
+                              left:D:15 True
+                              right:D:15 False
+                            right:D:14 True
+                        right:D:12 False
+                    right:D:10 False
+            right:D:6 Number of Parttime Undergrad >= 559.0 Gain: 0.026294832041343752
+              left:D:7 Room and Board Costs >= 3994.0 Gain: 0.044921875
+                left:D:8 True
+                right:D:8 Percent of Faculty with Ph.D >= 71.0 Gain: 0.2777777777777778
+                  left:D:9 Instructional Expenditure per Student >= 9345.0 Gain: 0.375
+                    left:D:10 False
+                    right:D:10 True
+                  right:D:9 True
+              right:D:7 Student Faculty Ratio >= 19.9 Gain: 0.07287723093564091
+                left:D:8 Number of Applications Received >= 2442.0 Gain: 0.125
+                  left:D:9 Number of Applicants Accepted >= 877.0 Gain: 0.21814903846153846
+                    left:D:10 True
+                    right:D:10 Percent of Faculty with Ph.D >= 71.0 Gain: 0.10650887573964496
+                      left:D:11 False
+                      right:D:11 Percent of Faculty with Ph.D >= 73.0 Gain: 0.5
+                        left:D:12 True
+                        right:D:12 False
+                  right:D:9 Number of Fulltime Undergrad >= 7368.0 Gain: 0.1886160714285714
+                    left:D:10 Student Faculty Ratio >= 19.2 Gain: 0.06122448979591841
+                      left:D:11 True
+                      right:D:11 Instructional Expenditure per Student >= 5687.0 Gain: 0.5
+                        left:D:12 True
+                        right:D:12 False
+                    right:D:10 False
+                right:D:8 True
+        right:D:4 False
+      right:D:3 Room and Board Costs >= 3991.0 Gain: 0.06064903846153849
+        left:D:4 Estimated Book Costs >= 465.0 Gain: 0.05050505050505033
+          left:D:5 Out-State Tuition >= 5472.0 Gain: 0.5
+            left:D:6 True
+            right:D:6 False
+          right:D:5 Instructional Expenditure per Student >= 12833.0 Gain: 0.03843936190659239
+            left:D:6 Percent of Faculty with Terminal Degree >= 54.0 Gain: 0.04120631486775354
+              left:D:7 True
+              right:D:7 Number of Parttime Undergrad >= 9310.0 Gain: 0.0442453404125877
+                left:D:8 Estimated Personal Spending >= 800.0 Gain: 0.008566329565734832
+                  left:D:9 Instructional Expenditure per Student >= 5332.0 Gain: 0.31999999999999984
+                    left:D:10 True
+                    right:D:10 False
+                  right:D:9 False
+                right:D:8 True
+            right:D:6 True
+        right:D:4 Estimated Personal Spending >= 985.0 Gain: 0.07746100053792349
+          left:D:5 True
+          right:D:5 In-State Tuition >= 1732.0 Gain: 0.1322314049586778
+            left:D:6 True
+            right:D:6 In-State Tuition >= 3338.0 Gain: 0.16752136752136754
+              left:D:7 Estimated Personal Spending >= 2900.0 Gain: 0.11932938856015768
+                left:D:8 Out-State Tuition >= 6919.0 Gain: 0.06944444444444457
+                  left:D:9 False
+                  right:D:9 Instructional Expenditure per Student >= 7462.0 Gain: 0.5
+                    left:D:10 False
+                    right:D:10 True
+                right:D:8 True
+              right:D:7 Student Faculty Ratio >= 14.7 Gain: 0.31999999999999984
+                left:D:8 False
+                right:D:8 True
+    right:D:2 Number of Parttime Undergrad >= 3757.0 Gain: 0.10047562425683723
+      left:D:3 Student Faculty Ratio >= 10.5 Gain: 0.0330612244897959
+        left:D:4 False
+        right:D:4 Estimated Personal Spending >= 732.0 Gain: 0.035141607663473504
+          left:D:5 False
+          right:D:5 Number of New Students Enrolled >= 7425.0 Gain: 0.03740026595744701
+            left:D:6 Estimated Personal Spending >= 2342.0 Gain: 0.017655047532820087
+              left:D:7 True
+              right:D:7 Percent of Faculty with Terminal Degree >= 84.0 Gain: 0.375
+                left:D:8 False
+                right:D:8 True
+            right:D:6 False
+      right:D:3 Percent of Faculty with Ph.D >= 91.0 Gain: 0.20833333333333334
+        left:D:4 False
+        right:D:4 Estimated Book Costs >= 650.0 Gain: 0.4444444444444444
+          left:D:5 False
+          right:D:5 True
+  right:D:1 Number of Parttime Undergrad >= 7263.0 Gain: 0.011934408319373646
+    left:D:2 Number of Applicants Accepted >= 434.0 Gain: 0.012690645096817318
+      left:D:3 Percent of Faculty with Terminal Degree >= 50.0 Gain: 0.07464363155730606
+        left:D:4 Percent of Faculty with Terminal Degree >= 35.0 Gain: 0.345679012345679
+          left:D:5 True
+          right:D:5 False
+        right:D:4 Estimated Book Costs >= 630.0 Gain: 0.05254879886094599
+          left:D:5 Instructional Expenditure per Student >= 6422.0 Gain: 0.06274499555741385
+            left:D:6 Student Faculty Ratio >= 13.7 Gain: 0.375
+              left:D:7 True
+              right:D:7 False
+            right:D:6 Number of Applicants Accepted >= 430.0 Gain: 0.034230632308239986
+              left:D:7 Room and Board Costs >= 6270.0 Gain: 0.010646862295213971
+                left:D:8 Percent of Faculty with Ph.D >= 44.0 Gain: 0.0073302790503957035
+                  left:D:9 Student Faculty Ratio >= 10.1 Gain: 0.31999999999999984
+                    left:D:10 False
+                    right:D:10 True
+                  right:D:9 True
+                right:D:8 Instructional Expenditure per Student >= 15387.0 Gain: 0.4444444444444444
+                  left:D:9 True
+                  right:D:9 False
+              right:D:7 False
+          right:D:5 Estimated Book Costs >= 650.0 Gain: 0.23612750885478173
+            left:D:6 False
+            right:D:6 Percent of Faculty with Terminal Degree >= 60.0 Gain: 0.40816326530612246
+              left:D:7 False
+              right:D:7 True
+      right:D:3 Percent of Faculty with Terminal Degree >= 69.0 Gain: 0.004058661052306116
+        left:D:4 Percent of Faculty with Terminal Degree >= 66.0 Gain: 0.06140703150669932
+          left:D:5 Estimated Personal Spending >= 1600.0 Gain: 0.026681088876870374
+            left:D:6 True
+            right:D:6 Out-State Tuition >= 10468.0 Gain: 0.2222222222222222
+              left:D:7 Percent of Faculty with Terminal Degree >= 60.0 Gain: 0.4444444444444444
+                left:D:8 False
+                right:D:8 True
+              right:D:7 True
+          right:D:5 Number of New Students Enrolled >= 237.0 Gain: 0.36242603550295854
+            left:D:6 False
+            right:D:6 Student Faculty Ratio >= 12.4 Gain: 0.21875
+              left:D:7 False
+              right:D:7 True
+        right:D:4 Estimated Personal Spending >= 2350.0 Gain: 0.0016727369852369695
+          left:D:5 In-State Tuition >= 4103.0 Gain: 0.0017662410038587172
+            left:D:6 Estimated Book Costs >= 700.0 Gain: 0.11302982731554179
+              left:D:7 In-State Tuition >= 4044.0 Gain: 0.14201183431952646
+                left:D:8 True
+                right:D:8 False
+              right:D:7 False
+            right:D:6 Percent of Faculty with Terminal Degree >= 81.0 Gain: 0.00048356859809135094
+              left:D:7 Instructional Expenditure per Student >= 12692.0 Gain: 0.03692425990003834
+                left:D:8 Number of Parttime Undergrad >= 41.0 Gain: 0.012533333333333459
+                  left:D:9 Instructional Expenditure per Student >= 11216.0 Gain: 0.4444444444444444
+                    left:D:10 True
+                    right:D:10 False
+                  right:D:9 True
+                right:D:8 False
+              right:D:7 True
+          right:D:5 Percent of Faculty with Terminal Degree >= 96.0 Gain: 0.11932938856015768
+            left:D:6 Number of Applications Received >= 663.0 Gain: 0.1527777777777779
+              left:D:7 False
+              right:D:7 True
+            right:D:6 False
+    right:D:2 False

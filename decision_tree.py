@@ -33,11 +33,11 @@ Returns:
 def gini_impurity(node):
     possible_labels = np.unique(node) #either true or false
 
-    gini_index = 0
+    gini = 0
     for label in possible_labels:
         probability = len(node[node == label]) / len(node)
-        gini_index = gini_index + (probability * probability)
-    gini_index = 1 - gini_index
+        gini = gini + (probability * probability)
+    gini = 1 - gini
     return gini_index
 
 '''
